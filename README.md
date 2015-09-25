@@ -1,1 +1,2 @@
-# cli
+# longshot-cli
+Under construction
