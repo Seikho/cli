@@ -1,6 +1,6 @@
 {
   "name": "longshot-cli",
-  "version": "0.1.0-pre",
+  "version": "0.1.1-pre",
   "description": "longshot command line",
   "main": "src/index",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/longshot-io/cli.git"
+    "url": "git+https://github.com/seikho/cli.git"
   },
   "keywords": [
     "cli"
